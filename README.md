@@ -1,14 +1,13 @@
 GITLAB :
 
-Points positifs : 
-- CI/CD
-- Solution complète tout-en-un.
-- Open source
-- Interface claire et tableaux de bord détaillés
-- Il est très bien intégré à Git
+Points positifs :
 
+- Solution complète tout-en-un, qui permet de gérer l'ensemble du cycle de vie des applications.
+- Version open source, adaptable et hébergeable selon nos besoins.
+- Sécurité renforcée avec des tests, des vérifications de conteneurs et des rapports de vulnérabilités.
+- Wiki et documentation, permettant de documenter les projets ou des processus techniques.
 
 Points négatifs :
 
-- Fonctionnalités avancées payantes comme le Security Dashboard et la gestion des protefeuilles projets
-- Limitations pour les utilisateurs non techniques
+- Interface parfois lourde et moins intuitive que GitHub.
+- Ressources système élevées pour l'auto-hébergement, nécessitant des infrastructures conséquentes.
