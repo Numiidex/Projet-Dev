@@ -6,6 +6,7 @@ Points positifs :
 - Open source option d'auto-hébergement.
 - Interface claire et tableaux de bord détaillés
 - Suivi de l'avancement en temps réel
+- Il est très bien intégré à Git
 
 
 Points négatifs :
