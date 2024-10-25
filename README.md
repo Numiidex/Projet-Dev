@@ -9,7 +9,7 @@ Points positifs :
 
 
 Points négatifs :
-- Complexe pour les petites équipes/projets.
+
 - Interface lourde.
 - Fonctionnalités avancées payantes.
 - Limitations pour les utilisateurs non techniques
